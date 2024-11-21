@@ -1,0 +1,2 @@
+Library Requirement
+-DFRobotDFPlayerMini byDFRobot
